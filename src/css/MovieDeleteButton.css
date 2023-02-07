@@ -1,0 +1,6 @@
+.movie-delete-button {
+    color: rgb(243, 241, 241);
+    background: #e50914;
+    padding: 0.5rem;
+    cursor: pointer;
+}
